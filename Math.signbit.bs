@@ -4,7 +4,7 @@ Shortname: Math.signbit
 Revision: 0
 Status: Stage1
 Group: TC39
-!Source: <a href="https://github.com/tc39/Math.signbit/blob/master//Math.signbit.bs">github.com/tc39/Math.signbit/blob/master//Math.signbit.bs</a>
+!Source: <a href="https://github.com/tc39/proposal-Math.signbit/blob/master/Math.signbit.bs">github.com/tc39/proposal-Math.signbit/blob/master//Math.signbit.bs</a>
 Editor: JF Bastien, Apple, jfbastien@apple.com
 ED:
 Abstract:
