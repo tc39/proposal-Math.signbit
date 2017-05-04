@@ -9,4 +9,4 @@ clean:
 
 html:
 	bikeshed update
-	find ./ -name "*.bs" -type f | xargs -I{} -t -n1 bikeshed spec {}
+	find ./ -name "*.bs" -type f | grep -v bikeshed | xargs -I{} -t -n1 bikeshed spec {}
