@@ -38,7 +38,7 @@ oft-encountered problem once and for all.
 Revision History {#rev}
 ================
 
-* Presented at the [2017-01](https://github.com/tc39/tc39-notes/blob/master/meetings/2017-01/summary.md) TC39 meeting and moved to Stage 1.
+* Presented at the [2017-01](https://github.com/tc39/tc39-notes/blob/master/meetings/2017-01/jan-25.md#13id-seeking-stage--00-for-ieee-754-sign-bit) TC39 meeting and moved to Stage 1.
 
 
 Background {#bg}
