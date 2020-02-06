@@ -128,8 +128,8 @@ This proposal makes decisions which TC39 may want to consider modifying:
 <pre class=biblio>
 {
     "IEEE754": {
-        "href": "https://standards.ieee.org/findstds/standard/754-2008.html",
-        "title": "IEEE 754-2008",
+        "href": "https://standards.ieee.org/standard/754-2019.html",
+        "title": "IEEE 754-2019",
         "publisher": "IEEE Computer Society"
     },
     "C": {
